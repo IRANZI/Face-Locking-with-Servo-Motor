@@ -1,0 +1,2 @@
+CPU-based Face Recognition & Locking System
+Real-time face recognition with ArcFace ONNX, 5-point alignment, face locking, and action tracking (blinks, head movement, smiles). Saves behavior history automatically. Works on CPU, no GPU required.
